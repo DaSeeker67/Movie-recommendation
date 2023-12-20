@@ -13,7 +13,6 @@ Streamlit Web App: The project is presented as a user-friendly web application c
 
 Usage
 Clone the repository:
-you will need one more pkl file of the 4000*4000 cosine differece dataset as i cannot upload it on git hub due to size limitation
 bash
 Copy code
 git clone https://github.com/yourusername/movie-recommendation.git
